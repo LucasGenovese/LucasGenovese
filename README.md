@@ -11,5 +11,5 @@ Graduated from Colegio Manuel Belgrano. Currently studying at Universidad de Pal
 📚 C (data structures and algorithms)  
   
 ### How to reach me:  
-📩 Mail: [lucas59311@gmail.com](lucas59311@gmail.com)  
+📩 Mail: [lucas59311@gmail.com](mailto:lucas59311@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/lucas-genovese/](https://www.linkedin.com/in/lucas-genovese/)
