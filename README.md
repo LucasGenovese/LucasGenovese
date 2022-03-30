@@ -3,7 +3,7 @@
 ### 👨‍🎓Studies:  
 Currently studying at Universidad de Palermo (Engineering in Computer Science)  
   
-### Programming languaje preferences:  
+### Programming language preferences:  
 🌐 HTML, CSS, JavaScript  
 🐍 Python (Pygame, Selenium, Beautiful Soup, ADB)     
 #️⃣ C# (Unity)  
