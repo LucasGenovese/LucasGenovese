@@ -1,7 +1,7 @@
 # Hi there! I’m Lucas Genovese 👋
 
 ### 👨‍🎓Studies:  
-Currently studying at Universidad de Palermo (Informatics Engineering)  
+Currently studying at Universidad de Palermo (Engineering in Computer Science)  
   
 ### Programming languaje preferences:  
 🌐 HTML, CSS, JavaScript  
