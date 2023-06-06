@@ -1,7 +1,7 @@
 # Hi there! I’m Lucas Genovese 👋
 
 ### 👨‍🎓Studies:  
-Currently studying at Universidad de Palermo (Engineering in Computer Science)  
+Currently studying at Universidad de Alicante (Engineering in Computer Science)  
   
 ### Programming language preferences:  
 🌐 HTML, CSS, JavaScript  
